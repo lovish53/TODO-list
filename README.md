@@ -1,6 +1,7 @@
 # TODO-list
 # Steps to setup
  -Download zip file
+ -Extract the zip file
  -Open folder in vscode
  -Open package.json file
  -Open terminal
